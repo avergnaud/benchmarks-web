@@ -1,6 +1,8 @@
-Benchmarks Vertx / node single process / et autres
-
+Benchmarks Vertx / node single process, node cluster / et autres
 ====================
+
+Benchmarks de "dynamic web servers"
+cf TODO
 
 
 Benchmark
@@ -27,6 +29,8 @@ Node - port 8081
 
     brew install node
     node node/server.js
+    
+    ou en mode cluster : node node/server_cluster.js
 
 Python - port 5000
 -----------

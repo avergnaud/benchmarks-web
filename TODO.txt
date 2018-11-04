@@ -1,0 +1,9 @@
+Bench de "dynamic web servers"
+
+DIFFERENCE concurrent / parallel
+https://www.youtube.com/watch?v=w1IzRF6AkuI
+
+https://openclassrooms.com/fr/courses/1056721-des-applications-ultra-rapides-avec-node-js/1057142-une-premiere-application-avec-node-js
+"Des applications ultra rapides avec node" ?
+
+en plus de ab et wrk : siege ?
